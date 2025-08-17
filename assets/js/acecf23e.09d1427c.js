@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmta_reviewer=self.webpackChunkcmta_reviewer||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/cmta-reviewer/blog","blogTitle":"Blog","authorsListPath":"/cmta-reviewer/blog/authors"}')}}]);
