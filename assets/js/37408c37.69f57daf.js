@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcmta_reviewer=self.webpackChunkcmta_reviewer||[]).push([[6872],{1832:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/cmta-reviewer/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
