@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmta_reviewer=self.webpackChunkcmta_reviewer||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Master the CMTA: Your Ultimate Guide to Philippine Customs Procedures","permalink":"/blog/master-cmta-guide","unlisted":false,"date":"2025-08-21T00:00:00.000Z"}]}')}}]);
